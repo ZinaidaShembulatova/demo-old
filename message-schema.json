@@ -12,7 +12,8 @@
 					"type": "object",
 					"properties": {
 						"name": {
-							"type": "string"
+							"type": "string",
+							"maxLength": 50
 						},
 						"partitions": {
 							"type": "integer"
