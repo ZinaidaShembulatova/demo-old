@@ -16,6 +16,9 @@
 						},
 						"partitions": {
 							"type": "integer"
+						},
+						"maxBytes": {
+							"type": "integer"
 						}
 					},
 					"required": [
